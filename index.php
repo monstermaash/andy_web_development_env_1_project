@@ -8,14 +8,14 @@
   <link rel="stylesheet" href="CSS/main.css">
 </head>
 <body>
-  <h1>web environment introduction</h1>
+  <h1>andy env-1-project</h1>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione dolores nulla, in accusantium adipisci culpa. Distinctio hic maiores necessitatibus voluptatum! Architecto reiciendis earum amet in repudiandae temporibus reprehenderit quis ex!</p>
   <hr>
   <h2 class="white-on-black">About the Course</h2>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro laudantium quam eaque iste atque similique doloribus suscipit minima ut doloremque. Ad ex modi voluptatem delectus repellendus blanditiis beatae necessitatibus aut. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam maiores, minima vel, dignissimos, recusandae animi ex consectetur nihil assumenda quo incidunt reprehenderit modi omnis sit asperiores dolores officia nesciunt ut!</p>
   <img src="Assets/images/vanier.jpg" alt="image of vanier college" width="50%">
   <br>
-  <a href="https://vaniercollege-lea.omnivox.ca/" target="_blank">Link to Omnivox Lea</a>
+  <a href="about.php" target="_blank">Link to about page</a>
   <script src="JS/main.js"></script>
 </body>
 </html>
